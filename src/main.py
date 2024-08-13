@@ -537,8 +537,9 @@ def on_closing():
         messagebox.showinfo("Message",f"It takes few seconds to Exit")
         stop_thread.set()
         background_thread.join()
-        exit()
         app.quit()
+        exit()
+        
 
 
 
