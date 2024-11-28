@@ -2,10 +2,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-
-
-
 ![License](https://img.shields.io/github/license/Hacker-SriDhar/HardwareCheck/)
 
 
@@ -17,7 +13,7 @@
 ![Rounded Image](Picture.png)
 ## Features
 
-- Retrieve detailed information about CPU, GPU, RAM, and storage.
+- Retrieve detailed information about CPU,RAM, and storage.
 - Display system information in a graphical interface.
 - Available as a standalone executable (`.exe`) for Windows.
 
