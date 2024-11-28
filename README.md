@@ -5,8 +5,8 @@
 
 
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/Hacker-SriDhar/HardwareCheck/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/Hacker-SriDhar/HardwareCheck/License)
+
+![License](https://img.shields.io/github/license/Hacker-SriDhar/HardwareCheck/)
 
 
 
